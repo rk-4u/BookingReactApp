@@ -5,6 +5,7 @@ export const Home = () => {
     <>
     <div>
     Welcome to home page
+    changes
     </div>
     </>
   )
